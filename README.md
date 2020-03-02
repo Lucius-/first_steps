@@ -19,6 +19,7 @@ Download and install the following:
   * `serverless-framework` - `npm install -g serverless`
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
 * [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-mac.html)
+* `AWS IAM Authenticator` - `brew install aws-iam-authenticator`
 * [Terraform](https://releases.hashicorp.com/terraform/0.12.21/terraform_0.12.21_darwin_amd64.zip)
 * `kubectl` - `curl -LO "https://storage.googleapis.com/kubernetes-release/release/$(curl -s https://storage.googleapis.com/kubernetes-release/release/stable.txt)/bin/darwin/amd64/kubectl"`
 * [eksctl](https://github.com/weaveworks/eksctl/releases/download/0.14.0/eksctl_Darwin_amd64.tar.gz)
