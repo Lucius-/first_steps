@@ -15,6 +15,7 @@ Download and install the following:
   * AWS SDK - `go get -u github.com/aws/aws-sdk-go`
   * AWS Lambda - `go get -u github.com/aws/aws-lambda-go/...`
 * [NodeJS](https://nodejs.org/dist/v12.16.1/node-v12.16.1.pkg)
+  * [NPM](https://www.npmjs.com/get-npm)
   * `serverless-framework` - `npm install -g serverless`
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
 * [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-mac.html)
