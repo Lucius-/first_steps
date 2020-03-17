@@ -1,4 +1,4 @@
-# first_steps
+# First Steps
 
 Download and install the following:
 
