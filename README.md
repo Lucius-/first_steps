@@ -18,6 +18,7 @@ Download and install the following:
   * [NPM](https://www.npmjs.com/get-npm)
   * `serverless-framework` - `npm install -g serverless`
 * [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2-mac.html)
+* `aws-shell` - pip install aws-shell
 * [SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install-mac.html)
 * `AWS IAM Authenticator` - `brew install aws-iam-authenticator`
 * [Terraform](https://releases.hashicorp.com/terraform/0.12.21/terraform_0.12.21_darwin_amd64.zip)
